@@ -136,10 +136,11 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Author
 
-Created with ❤️ by the Web Lookup Team
+Created with ❤️ by the Besmir IBrahmi
 
 <div align="center">
 
 ⭐ If you found this useful, please star the repository! ⭐
 
 </div>
+
