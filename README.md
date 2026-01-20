@@ -50,7 +50,7 @@ termux-web-lookup/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone  besmiribrahimi/web-lookuptoolshqip
+git clone https://github.com/besmiribrahimi/web-lookuptoolshqip.git
 cd termux-web-lookup
 
 # 2️⃣ Install dependencies
