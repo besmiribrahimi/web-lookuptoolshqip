@@ -41,7 +41,7 @@ termux-web-lookup/
 ├── 📄 requirements.txt           Dependencies
 ├── 📖 README.md                 This file
 └── 📁 .github/
-    └── 📋 copilot-instructions.md
+
 ```
 
 ## 🚀 Quick Start
@@ -50,7 +50,7 @@ termux-web-lookup/
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/termux-web-lookup.git
+git clone  besmiribrahimi/web-lookuptoolshqip
 cd termux-web-lookup
 
 # 2️⃣ Install dependencies
